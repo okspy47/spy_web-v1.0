@@ -6,7 +6,7 @@
 - Tot ce este prezent in website poate fii modificat, dupa bunul plac. Fiind un repository open-source, nu trebuie sa oferiti credite, insa as aprecia daca ai oferi.
 - Instructiuni de editare a acestuia le gasesti pe [</>Neo vRP Wiki](https://neowiki.notion.site/Neo-vRP-Hub-Wiki-77b397556ba14d0b8292fd85f6d84da4)
 
-Daca vrei mai multe tutoriale, te asteptam pe [Discord](https://discord.gg/skBEqPSxWT) si pe [</>Neo vRP Wiki](https://neowiki.notion.site/Neo-vRP-Hub-Wiki-77b397556ba14d0b8292fd85f6d84da4), un wiki open-source pe intelesul tuturor.
+**_Daca vrei mai multe tutoriale, te asteptam pe [Discord](https://discord.gg/skBEqPSxWT) si pe [</>Neo vRP Wiki](https://neowiki.notion.site/Neo-vRP-Hub-Wiki-77b397556ba14d0b8292fd85f6d84da4), un wiki open-source pe intelesul tuturor._**
 
 ###### Preview:
 
