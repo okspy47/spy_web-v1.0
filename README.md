@@ -1,4 +1,4 @@
-# Neo Web Landing Page [v2.0]
+# Neo Web Landing Page [v1.0]
 
 ###### Made by OkSpy, for Neo Wiki and </>Neo vRP Hub.
 
